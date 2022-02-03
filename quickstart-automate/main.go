@@ -15,9 +15,9 @@
 package main
 
 import (
-"fmt"
+	"fmt"
 )
 
-func main () {
-  fmt.Println("Hello, world!")
+func main() {
+	fmt.Println("Hello, universe! I'm here to say hello!")
 }
